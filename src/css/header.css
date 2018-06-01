@@ -1,0 +1,11 @@
+.header {
+    background-color: #222;
+    padding: 10px;
+    height: 100px;
+    color: white;
+  }
+  
+  .title {
+    font-size: 3em;
+    font-family: 'Skranji','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }

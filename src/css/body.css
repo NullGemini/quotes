@@ -1,0 +1,43 @@
+.main {
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.button-bar {
+
+}
+
+.button {
+    min-width: 105px;
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+
+@media screen and (max-width: 375px){
+    .end {
+        margin-right: 0px;
+    }
+}
+
+.last {
+    margin-right: 0px;
+}
+
+.display {
+    color: #222;
+    background-color: #eeebe7;
+    font-family: 'Bad Script', 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 2em;
+    border: 5px double #000000;
+    padding: 20px;
+    min-height: 350px;
+    width: 100%;
+    border-radius: 5px;
+    display: table;
+}
+
+.script {
+    display: table-cell;
+    vertical-align: middle;
+}

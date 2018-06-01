@@ -1,0 +1,36 @@
+.source-header{
+  text-align: center;
+}
+
+.footer {
+    width: 100%;
+    padding: 5px 10px;
+    height: 40px;
+    color: #FFF;
+    background-color: #000;
+}
+
+.source-button {
+  float: left;
+}
+
+.version {
+  text-align: right;
+}
+
+.logo {
+  float: right;
+  text-align: right;
+  height: 30px;
+  line-height: 30px;
+}
+
+.react-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 24px;
+  }
+
+  @keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
